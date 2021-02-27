@@ -1,0 +1,10 @@
+C:\Users\Mustafa\source\repos\Veri Listeleme\Veri Listeleme\bin\Debug\Veri Listeleme.exe.config
+C:\Users\Mustafa\source\repos\Veri Listeleme\Veri Listeleme\bin\Debug\Veri Listeleme.exe
+C:\Users\Mustafa\source\repos\Veri Listeleme\Veri Listeleme\bin\Debug\Veri Listeleme.pdb
+C:\Users\Mustafa\source\repos\Veri Listeleme\Veri Listeleme\obj\Debug\Veri Listeleme.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\Veri Listeleme\Veri Listeleme\obj\Debug\Veri_Listeleme.Form1.resources
+C:\Users\Mustafa\source\repos\Veri Listeleme\Veri Listeleme\obj\Debug\Veri_Listeleme.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Veri Listeleme\Veri Listeleme\obj\Debug\Veri Listeleme.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Veri Listeleme\Veri Listeleme\obj\Debug\Veri Listeleme.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Veri Listeleme\Veri Listeleme\obj\Debug\Veri Listeleme.exe
+C:\Users\Mustafa\source\repos\Veri Listeleme\Veri Listeleme\obj\Debug\Veri Listeleme.pdb
