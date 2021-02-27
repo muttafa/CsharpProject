@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Faktoriyel Hesaplama/1.0.0": {
+        "runtime": {
+          "Faktoriyel Hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Faktoriyel Hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
