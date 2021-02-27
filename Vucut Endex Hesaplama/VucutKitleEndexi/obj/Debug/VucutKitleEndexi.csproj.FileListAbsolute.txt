@@ -1,0 +1,10 @@
+C:\Users\Mustafa\source\repos\VucutKitleEndexi\VucutKitleEndexi\bin\Debug\VucutKitleEndexi.exe.config
+C:\Users\Mustafa\source\repos\VucutKitleEndexi\VucutKitleEndexi\bin\Debug\VucutKitleEndexi.exe
+C:\Users\Mustafa\source\repos\VucutKitleEndexi\VucutKitleEndexi\bin\Debug\VucutKitleEndexi.pdb
+C:\Users\Mustafa\source\repos\VucutKitleEndexi\VucutKitleEndexi\obj\Debug\VucutKitleEndexi.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\VucutKitleEndexi\VucutKitleEndexi\obj\Debug\VucutKitleEndexi.Form1.resources
+C:\Users\Mustafa\source\repos\VucutKitleEndexi\VucutKitleEndexi\obj\Debug\VucutKitleEndexi.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\VucutKitleEndexi\VucutKitleEndexi\obj\Debug\VucutKitleEndexi.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\VucutKitleEndexi\VucutKitleEndexi\obj\Debug\VucutKitleEndexi.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\VucutKitleEndexi\VucutKitleEndexi\obj\Debug\VucutKitleEndexi.exe
+C:\Users\Mustafa\source\repos\VucutKitleEndexi\VucutKitleEndexi\obj\Debug\VucutKitleEndexi.pdb
