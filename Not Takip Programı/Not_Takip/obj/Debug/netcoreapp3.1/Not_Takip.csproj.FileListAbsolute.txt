@@ -1,0 +1,13 @@
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\bin\Debug\netcoreapp3.1\Not_Takip.exe
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\bin\Debug\netcoreapp3.1\Not_Takip.deps.json
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\bin\Debug\netcoreapp3.1\Not_Takip.runtimeconfig.json
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\bin\Debug\netcoreapp3.1\Not_Takip.runtimeconfig.dev.json
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\bin\Debug\netcoreapp3.1\Not_Takip.dll
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\bin\Debug\netcoreapp3.1\Not_Takip.pdb
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\obj\Debug\netcoreapp3.1\Not_Takip.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\obj\Debug\netcoreapp3.1\Not_Takip.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\obj\Debug\netcoreapp3.1\Not_Takip.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\obj\Debug\netcoreapp3.1\Not_Takip.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\obj\Debug\netcoreapp3.1\Not_Takip.dll
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\obj\Debug\netcoreapp3.1\Not_Takip.pdb
+C:\Users\Mustafa\source\repos\Not_Takip\Not_Takip\obj\Debug\netcoreapp3.1\Not_Takip.genruntimeconfig.cache
