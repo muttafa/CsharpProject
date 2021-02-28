@@ -1,0 +1,11 @@
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\bin\Debug\Ado.Net.exe.config
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\bin\Debug\Ado.Net.exe
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\bin\Debug\Ado.Net.pdb
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\obj\Debug\Ado.Net.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\obj\Debug\Ado.Net.Form1.resources
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\obj\Debug\Ado.Net.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\obj\Debug\Ado.Net.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\obj\Debug\Ado.Net.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\obj\Debug\Ado.Net.exe
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\obj\Debug\Ado.Net.pdb
+C:\Users\Mustafa\source\repos\Ado.Net\Ado.Net\obj\Debug\Ado.Net.Kategoriler.resources
