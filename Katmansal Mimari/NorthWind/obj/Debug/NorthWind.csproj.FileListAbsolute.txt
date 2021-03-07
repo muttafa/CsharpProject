@@ -1,0 +1,13 @@
+C:\Users\Mustafa\source\repos\UI\NorthWind\obj\Debug\NorthWind.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\UI\NorthWind\obj\Debug\NorthWind.Form1.resources
+C:\Users\Mustafa\source\repos\UI\NorthWind\obj\Debug\NorthWind.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\UI\NorthWind\obj\Debug\NorthWind.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\UI\NorthWind\obj\Debug\NorthWind.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\UI\NorthWind\bin\Debug\NorthWind.exe.config
+C:\Users\Mustafa\source\repos\UI\NorthWind\bin\Debug\NorthWind.exe
+C:\Users\Mustafa\source\repos\UI\NorthWind\bin\Debug\NorthWind.pdb
+C:\Users\Mustafa\source\repos\UI\NorthWind\bin\Debug\NorthwindORM.dll
+C:\Users\Mustafa\source\repos\UI\NorthWind\bin\Debug\NorthwindORM.pdb
+C:\Users\Mustafa\source\repos\UI\NorthWind\obj\Debug\NorthWind.csproj.CopyComplete
+C:\Users\Mustafa\source\repos\UI\NorthWind\obj\Debug\NorthWind.exe
+C:\Users\Mustafa\source\repos\UI\NorthWind\obj\Debug\NorthWind.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mustafa\source\repos\UI\NorthwindORM\obj\Debug\NorthwindORM.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\UI\NorthwindORM\obj\Debug\NorthwindORM.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\UI\NorthwindORM\bin\Debug\NorthwindORM.dll
+C:\Users\Mustafa\source\repos\UI\NorthwindORM\bin\Debug\NorthwindORM.pdb
+C:\Users\Mustafa\source\repos\UI\NorthwindORM\obj\Debug\NorthwindORM.dll
+C:\Users\Mustafa\source\repos\UI\NorthwindORM\obj\Debug\NorthwindORM.pdb
